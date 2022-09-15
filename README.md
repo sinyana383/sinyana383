@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <p align='center'>
    <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyana383&layout=compact"/></a>
+       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyana383&layout=compact"/></a>
 </p>
