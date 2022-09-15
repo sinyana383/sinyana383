@@ -2,6 +2,8 @@
 Software Engineer student from the [School 21](https://sbergraduate.ru/en/21-school/), a computer programming school. Have good knowledge in C/C++ programming and general in Java, C#(Unity). Don't hesitate and have a look on my projects :)
 
 <!--
+TO DO:
+
 Projects to add:
 C#    : Unity games(Arkanoid)
 C++   : terminal game (минёр)
