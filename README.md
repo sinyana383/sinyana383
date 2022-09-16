@@ -4,12 +4,6 @@ Software Engineer student from the [School 21](https://sbergraduate.ru/en/21-sch
 <!--
 TO DO:
 
-Projects to add:
-C#    : Unity games(Arkanoid)
-C++   : terminal game (минёр)
-C     : all 21 school projects
-Java  : MPGU projects
-
 - python mini-project?
 -->
 
