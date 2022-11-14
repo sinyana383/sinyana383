@@ -13,11 +13,5 @@ TO DO:
 </p>
 
 <p align='center'>
-   <a href="https://hh.ru/resume/0b31a7efff083ae6320039ed1f366f68674f62">
-       <img height=80 src="https://1ul.ru/upload/resize_image/publication/96872/960_0_3_HeadHunter.png?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-<p align='center'>
-
-<p align='center'>
    📫 Contact email: <a href='mailto:sinitskiaiana@gmail.com'>sinitskiaiana@gmail.com</a>
 </p>
