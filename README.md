@@ -8,10 +8,5 @@ TO DO:
 -->
 
 <p align='center'>
-   <a href="https://github.com/sinyana383/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyana383&layout=compact&langs_count=10"/></a>
-</p>
-
-<p align='center'>
    📫 Contact email: <a href='mailto:sinitskiaiana@gmail.com'>sinitskiaiana@gmail.com</a>
 </p>
