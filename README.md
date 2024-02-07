@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile
-Software Engineer student from the [School 21](https://sbergraduate.ru/en/21-school/), a computer programming school. Have good knowledge in C/C++ and C#. Don't hesitate and have a look on my projects :)
+Unity developer and student of [School 21](https://sbergraduate.ru/en/21-school/), a computer programming school. Have good knowledge in C/C++ and C#. Don't hesitate and have a look on my projects :)
 
 <!--
 TO DO:
